@@ -2,6 +2,9 @@
 
  - Código exemplificando um GRUD para criar, ler, atualizar e deletar com Laravel e AdminLTE. Além disso, é como um aplicativo de página única, usada a janela modal Bootstrap para criar, atualizar e excluir dados.
 
+💻 Projeto
+ ![bg](https://miro.medium.com/max/4656/1*mzMIXN2JodV2taEBzmUKLg.png)
+
 ## :rocket: Tecnologias
 
 Neste projeto foram utilizadas as seguintes tecnologias:
@@ -21,7 +24,5 @@ Neste projeto foram utilizadas as seguintes tecnologias:
  - Execute __npm run dev__
  - É isso - carregue a homepage, use o link __Register__ e use o CRUD
 
-☑️ Código com objetivo de exemplificar um GRUD para criar, ler, atualizar e deletar com Laravel e AdminLTE.
 
-💻 Projeto
- ![bg](https://miro.medium.com/max/4656/1*mzMIXN2JodV2taEBzmUKLg.png)
+☑️ Código com objetivo de exemplificar um GRUD para criar, ler, atualizar e deletar com Laravel e AdminLTE.
